@@ -1,0 +1,4 @@
+#Sun May 19 11:56:15 WIB 2019
+base.0=/Users/useradmin/Documents/project-pribadi/smart_wallet/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
